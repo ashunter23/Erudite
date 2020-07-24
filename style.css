@@ -1,0 +1,66 @@
+body {
+    background-image: url("https://www.tcplibrary.org/sites/default/files/Book%20Talk%202.jpg");
+    background-blend-mode: overlay;
+}
+h1 {
+    color: navy;
+    font-family: georgia, sans-serif;
+    font-size: 100px;
+    letter-spacing: .07em;
+    margin-left: 5px;
+}
+header blockquote {
+    font-size: large;
+    font-family: sans-serif;
+    font-size: 19px;
+    margin-left: 50px;
+}
+h2 {
+    color: sienna;
+    font-size: 30px;
+    margin-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header p {
+    color: darkseagreen;
+    font-family: sans-serif;
+    font-size: 19px;
+    margin-left: 50px;
+}
+h3 {
+    color: sienna;
+    font-size: 26px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+.btn {
+    color: navy;
+    margin-left: 25px;
+}
+input {
+    color: navy;
+    font-size: 70px;
+}
+section blockquote {
+    font-family: georgia, sans-serif;
+    text-align: center;
+    border: solid darkseagreen;
+    border-width: 1em 25em;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+blockquote input {
+    color: darkseagreen;
+}
+footer {
+    color: navy;
+    font-family: Georgia, sans-serif;
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+}
+footer img {
+    float: center;
+}
