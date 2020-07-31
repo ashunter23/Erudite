@@ -1,0 +1,11 @@
+body {
+    background-image: url("Book Talk 2.jpg");
+    background-blend-mode: overlay;
+}
+h1 {
+    color: navy;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 70px;
+    letter-spacing: .05em;
+    text-align: center;
+}
